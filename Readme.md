@@ -1,4 +1,4 @@
-# 교육 프로그램 조 편성 — 재사용 프롬프트 템플릿
+<img width="1061" height="291" alt="image" src="https://github.com/user-attachments/assets/b8db91a3-24e0-421f-a38a-16a1d614f997" /># 교육 프로그램 조 편성 — 재사용 프롬프트 템플릿
 
 전체 작업은 3단계로 진행합니다. 순서대로 사용하세요.
 
@@ -73,6 +73,8 @@
 > 위 편성 결과를 엑셀 파일로 만들어줘. 시트에 표를 넣고, 표 옆 칸에 조별 편성 요약/검증 설명글도 함께 넣어줘.
 
 ---
+<img width="1061" height="291" alt="image" src="https://github.com/user-attachments/assets/443bbd93-87aa-4734-93f5-863770a4aa38" />
+
 
 ### 사용 팁
 - STEP 1 → STEP 2 → STEP 3 순서로 대화를 이어가면 됩니다 (한 대화 안에서 이어서 진행 추천).
